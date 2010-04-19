@@ -1,0 +1,13 @@
+dutchie's irssi scripts
+
+No guarantee of working, if they break everything/make you look like an idiot
+it's not my fault. I'm usually dutchie on freenode though, if you want to
+poke me about them there :)
+ 
+Two (so far):
+digraphs.pl
+- allow entry of Unicode characters à la Vim with Ctrl-K
+
+irssi_give_talk.pl:
+- irssi port of Stuart Langridge's IRC talk script
+- http://kryogenix.org/days/2009/08/31/delivering-talks-by-irc-an-xchat-plugin
